@@ -1,7 +1,7 @@
 ### Hi there, I'm Kaleab Fikru! 👋
 
-👨‍🎓 Highschool Student
-🔒 Aspiring Cybersecurity Enthusiast
+#### 👨‍🎓 Highschool Student
+#### 🔒 Aspiring Cybersecurity Enthusiast
 
 🌐 Learning Cybersecurity
 🚀 Passionate about all things IT
