@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amen Fikru</h1>
 <h3 align="center">Aspiring Cybersecurity Enthusiast From Ethiopia</h3>
-<image align="right" alt="encryption" width=400 src="https://giphy.com/gifs/computer-mograph-hack-077i6AULCXc0FKTj9s">
+<image align="right" alt="encryption" width=400 src="<iframe>https://giphy.com/gifs/computer-mograph-hack-077i6AULCXc0FKTj9s</iframe>">
+<iframe src="https://giphy.com/embed/077i6AULCXc0FKTj9s" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-mograph-hack-077i6AULCXc0FKTj9s">via GIPHY</a></p>
 
 - 🌱 I’m currently learning **Cybersecurity**
 
