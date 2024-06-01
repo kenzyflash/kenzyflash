@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amen Fikru</h1>
+<h1 align="center">Hi 👋, I'm Kaleab Fikru</h1>
 <h3 align="center">Aspiring Cybersecurity Enthusiast From Ethiopia</h3>
 
 - 🌱 I’m currently learning **Cybersecurity**
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **IT and Cybersecurity**
 
-- 📫 How to reach me **random@gmail.com**
+- 📫 How to reach me **kenzyflash@proton.me**
 
 - ⚡ Fun fact **I am just a high-school student**
 
