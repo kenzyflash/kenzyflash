@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kaleab Fikru</h1>
+<h1 align="center">Hi 👋, I'm Kenzy Flash</h1>
 <h3 align="center">Aspiring Cybersecurity Enthusiast From Ethiopia</h3>
 
 - 🌱 I’m currently learning **Cybersecurity**
 
 - 🤝 I’m looking for help with **Cybersecurity**
-
-- 👨‍💻 All of my projects are available at [https://kenzy.my.to/](https://kenzy.my.to/)
 
 - 💬 Ask me about **IT and Cybersecurity**
 
