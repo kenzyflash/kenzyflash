@@ -27,10 +27,10 @@ I'm a student with a growing passion for cybersecurity, ethical hacking, and dig
 <br><br>
 
 <a href="https://github.com/kenzyflash/freecodecamp_journey">
-  <img src="https://img.shields.io/badge/FreeCodeCamp-Security%20Path-critical?style=for-the-badge&logo=github" alt="FreeCodeCamp Security"/>
+  <img src="https://img.shields.io/badge/FreeCodeCamp-Fullstack%20Development%20Path-critical?style=for-the-badge&logo=github" alt="FreeCodeCamp Fullstack Dev"/>
 </a>
 <br/>
-<sub>My progress on the FreeCodeCamp security curriculum</sub>
+<sub>My progress on the FreeCodeCamp Fullstack Development Path</sub>
 
 </div>
 
